@@ -40,6 +40,7 @@ This is a restoration project for **SambaPOS V3**. It has been updated to run sm
 ### 3. Important Note / Önemli Not
 > [!IMPORTANT]
 > **Run as Administrator:** Please right-click the desktop shortcut and select **"Run as Administrator"** to avoid database connection issues.
+> 
 > **Yönetici Olarak Çalıştır:** Veritabanı bağlantı hatalarını önlemek için masaüstü kısayoluna sağ tıklayıp **"Yönetici Olarak Çalıştır"** seçeneğini kullanın.
 
 > [!IMPORTANT]
