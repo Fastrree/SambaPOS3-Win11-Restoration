@@ -41,8 +41,11 @@ This is a restoration project for **SambaPOS V3**. It has been updated to run sm
 > [!IMPORTANT]
 > **Run as Administrator:** Please right-click the desktop shortcut and select **"Run as Administrator"** to avoid database connection issues.
 > **Yönetici Olarak Çalıştır:** Veritabanı bağlantı hatalarını önlemek için masaüstü kısayoluna sağ tıklayıp **"Yönetici Olarak Çalıştır"** seçeneğini kullanın.
-> **Application PIN:** 1234
-> **Uygulama Şifresi:** 1234
+
+> [!IMPORTANT]
+> **Application PIN:** 1234.
+> 
+> **Uygulama Şifresi:** 1234.
 
 ---
 
